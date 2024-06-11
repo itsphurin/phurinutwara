@@ -1,27 +1,34 @@
-### :space_invader: About Me
+### :space_invader: **About Me**
 
-I am a Full Stack Developer :man_technologist: from <img src="https://em-content.zobj.net/source/toss-face/381/flag-thailand_1f1f9-1f1ed.png" width="18"/>.
+:man_technologist: I am a passionate Full Stack Developer, constantly delving into the world of technology and innovation.
 
-- :telescope: I’m working as a Software Engineer mostly for building web applications.
+:telescope: Currently, I am dedicated to crafting exceptional web applications as a Software Engineer.
 
-- :zap: A full-time CLI/TUI power user. (ofc, ~~vim~~[nvim](https://github.com/phurinutwara/nvim) as my main IDE)
+:zap: A devoted CLI/TUI aficionado, with [nvim](https://github.com/phurinutwara/nvim) and [tmux](https://github.com/phurinutwara/dotfiles/blob/6d70bdbd75539cca15b49b0ba074876a52c48bda/tmux/tmux.conf) as my trusted allies in coding adventures.
 
-- :seedling: In my free time, I read tech books, articles and explore dev tool to improve<br/>
-  [my dotfiles config](https://github.com/phurinutwara/dotfiles) to get full potential of development productivity.
+:seedling: During my downtime, I immerse myself in tech literature, devouring articles and fine-tuning my [dotfiles](https://github.com/phurinutwara/dotfiles) configuration to optimize development productivity.
 
-- :mailbox: To reach me :point_right: [![Linkedin Badge](https://img.shields.io/badge/-phurninutw-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phurinutw/)
-
----
-
-[![My Skills & Interests](https://skillicons.dev/icons?i=apollo,bash,docker,git,go,gcp,graphql,kafka,lua,mysql,neovim,nodejs,postgres,react,regex,js,html,css&perline=9)](https://skillicons.dev)
+:mailbox: Connect with me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-phurninutw-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phurinutw/)
 
 ---
 
-### :fire: My Stats
+:hammer_and_wrench: **Skills & Interests**
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phurinutwara&theme=dark&background=000000)](https://git.io/streak-stats)
+[![My Skills & Interests](https://skillicons.dev/icons?i=apollo,apple,arch,arduino,bash,bootstrap,docker,express,figma,git,github,go,gcp,grafana,graphql,kafka,linux,lua,materialui,mongodb,mysql,neovim,nextjs,nodejs,postgres,prometheus,raspberrypi,react,redis,regex,sentry,tailwind,ubuntu,js,html,css&perline=18)](https://skillicons.dev)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/phurinutwara/langs?time_range=all_time&include_private=true&compact=true&use_percent=true&loc_metric=changed)](https://githubtrends.io)
+---
+
+:fire: **My Stats**
+
+Keep the GitHub Streak going strong!
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phurinutwara)
+
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/phurinutwara/langs?time_range=all_time&include_private=true&compact=true&use_percent=true&loc_metric=changed)
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phurinutwara&show_icons=true) -->
+
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phurinutwara&layout=compact) -->
 
 <!-- --- -->
 <!---->
