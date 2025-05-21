@@ -4,9 +4,9 @@
 
 :telescope: Currently, I am dedicated to crafting exceptional web applications as a Software Engineer.
 
-:zap: A devoted CLI/TUI aficionado, with [nvim](https://github.com/phurinutwara/nvim) and [tmux](https://github.com/phurinutwara/dotfiles/blob/6d70bdbd75539cca15b49b0ba074876a52c48bda/tmux/tmux.conf) as my trusted allies in coding adventures.
+:zap: A devoted CLI/TUI aficionado, with [nvim](https://github.com/itsphurin/nvim) and [tmux](https://github.com/itsphurin/dotfiles/blob/6d70bdbd75539cca15b49b0ba074876a52c48bda/tmux/tmux.conf) as my trusted allies in coding adventures.
 
-:seedling: During my downtime, I immerse myself in tech literature, devouring articles and fine-tuning my [dotfiles](https://github.com/phurinutwara/dotfiles) configuration to optimize development productivity.
+:seedling: During my downtime, I immerse myself in tech literature, devouring articles and fine-tuning my [dotfiles](https://github.com/itsphurin/dotfiles) configuration to optimize development productivity.
 
 :mailbox: Connect with me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-phurninutw-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phurinutw/)
 
@@ -22,20 +22,20 @@
 
 Keep the GitHub Streak going strong!
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phurinutwara)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsphurin)
 
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/phurinutwara/langs?time_range=all_time&include_private=true&compact=true&use_percent=true&loc_metric=changed)
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/itsphurin/langs?time_range=all_time&include_private=true&compact=true&use_percent=true&loc_metric=changed)
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phurinutwara&show_icons=true) -->
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsphurin&show_icons=true) -->
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phurinutwara&layout=compact) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsphurin&layout=compact) -->
 
 <!-- --- -->
 <!---->
 <!-- ### :sparkling_heart: My workspace : -->
 
 <!--
-**phurinutwara/phurinutwara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**itsphurin/itsphurin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
